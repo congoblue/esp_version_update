@@ -16,8 +16,12 @@ Public Class Form1
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        My.Computer.FileSystem.CopyFile(fpath & "\.pio\build\esp32dev\firmware.bin", fpath & "\" & TextBox1.Text)
-        My.Computer.FileSystem.DeleteFile(fpath & "\" & fname)
+        Dim ferr = 0
+        If Not My.Computer.FileSystem.FileExists(fpath & "\.pio\build\esp32dev\firmware.bin") Then MsgBox("Firmware.bin doesn't exist") : ferr = 1
+        If (ferr = 0) Then
+            My.Computer.FileSystem.CopyFile(fpath & "\.pio\build\esp32dev\firmware.bin", fpath & "\" & TextBox1.Text)
+            My.Computer.FileSystem.DeleteFile(fpath & "\" & fname)
+        End If
         Me.Close()
-    End Sub
-End Class
+        End Sub
+        End Class
