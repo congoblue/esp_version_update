@@ -1,0 +1,16 @@
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\bin\Debug\net10.0-windows\esp_version_update.exe
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\bin\Debug\net10.0-windows\esp_version_update.deps.json
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\bin\Debug\net10.0-windows\esp_version_update.runtimeconfig.json
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\bin\Debug\net10.0-windows\esp_version_update.dll
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\bin\Debug\net10.0-windows\esp_version_update.pdb
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\esp_version_update.Form1.resources
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\esp_version_update.vbproj.GenerateResource.cache
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\esp_version_update.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\esp_version_update.AssemblyInfoInputs.cache
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\esp_version_update.AssemblyInfo.vb
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\esp_version_update.vbproj.CoreCompileInputs.cache
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\esp_version_update.dll
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\refint\esp_version_update.dll
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\esp_version_update.pdb
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\esp_version_update.genruntimeconfig.cache
+C:\Users\tim.SABRE\Documents\GitHub\esp_version_update\esp_version_update\obj\Debug\net10.0-windows\ref\esp_version_update.dll
