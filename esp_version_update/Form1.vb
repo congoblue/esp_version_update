@@ -19,8 +19,8 @@ Public Class Form1
         Dim ferr = 0
         If Not My.Computer.FileSystem.FileExists(fpath & "\.pio\build\esp32dev\firmware.bin") Then MsgBox("Firmware.bin doesn't exist") : ferr = 1
         If (ferr = 0) Then
-            My.Computer.FileSystem.CopyFile(fpath & "\.pio\build\esp32dev\firmware.bin", fpath & "\" & TextBox1.Text)
             My.Computer.FileSystem.DeleteFile(fpath & "\" & fname)
+            My.Computer.FileSystem.CopyFile(fpath & "\.pio\build\esp32dev\firmware.bin", fpath & "\" & TextBox1.Text)
         End If
         Me.Close()
         End Sub

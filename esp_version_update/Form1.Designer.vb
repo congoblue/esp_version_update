@@ -44,6 +44,7 @@ Partial Class Form1
         ' 
         ' Form1
         ' 
+        AcceptButton = Button1
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(373, 166)

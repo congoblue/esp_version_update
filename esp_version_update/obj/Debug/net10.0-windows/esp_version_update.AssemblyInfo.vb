@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("esp_version_update"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4dafa47b621c46af25a398b58c6e8365038ff01"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be8b74d90d907bb21a7d06c3030df090bf148c7e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("esp_version_update"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("esp_version_update"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
